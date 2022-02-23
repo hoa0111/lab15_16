@@ -1,0 +1,8 @@
+<img src="image/truong-dai-hoc-fpt-tin-tuong-chon-onlinecrm-lam-don-vi-trien-khai-phan-mem-crm.png" alt="" width="250">
+    <hr>
+    <p>
+        <a href="home.html">Hello</a>
+        <a href="ThoTim.html">Bài Tho</a>
+        <a href="PhuongTrinh.html">Phuong Trình</a>
+        <hr>
+    </p>

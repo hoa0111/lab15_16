@@ -1,0 +1,22 @@
+BAI THO:
+
+<h1>Bài Tho</h1>
+    <p><em>
+        Màu <strong>tím</strong> hoa sim màu <strong>tím</strong> nh?<br>
+        Màu <strong>tím</strong> lòng ngu?i <strong>tím</strong> u?c mo<br>
+        Ôi <strong>tím</strong> th?y chung màu d?p quá<br>
+        Màu <strong>tím</strong> chi?u tà <strong>tím</strong> ý tho<br>
+    </em>
+    </p>
+    <p><em>
+        Màu <strong>tím</strong> hoa sim tim <strong>tím</strong> <mark>Hu?</mark><br>
+        B?u tr?i <strong>tím tím</strong> tim tôi<br>
+    </em>
+    </p>
+
+PHUONG TRINH:
+
+<h1>Phuong Trình</h1>
+    <p><b>
+        a <sub>0</sub> x <sup>N</sup> + a <sub>1</sub> x <sup>N+1</sup> + ... +a <sub>N</sub> x <sup>0</sup> =0
+    </p></b>
